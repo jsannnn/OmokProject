@@ -22,6 +22,7 @@ public class Board {
             }
             if(i > 9){
                 System.out.print((char)(i + 'A' - 1) + " ");
+                System.out.println("Hello");
             }
         }
         //print out values of y columns along with the dot markers

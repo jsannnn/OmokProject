@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31c1acdd-9b92-4559-897f-8163ab34de3f" name="Changes" comment="First edition of board&#10;Prototype of player">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OmokProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consoleOmok/GameMode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consoleOmok/omokGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consoleOmok/userInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/consoleOmok/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/consoleOmok/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/consoleOmok/GameMode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/consoleOmok/GameMode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +62,7 @@
       <workItem from="1676930565249" duration="1167000" />
       <workItem from="1676934094051" duration="953000" />
       <workItem from="1676936927377" duration="3202000" />
+      <workItem from="1676941486028" duration="1235000" />
     </task>
     <task id="LOCAL-00001" summary="First edition of board">
       <created>1676922851428</created>
@@ -102,7 +96,24 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
