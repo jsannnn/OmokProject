@@ -13,7 +13,7 @@ public class Board {
             }
         }
     }
-    public void display(){
+    public void design(){
         System.out.print(" x ");
         //Print out values of x column
         for(int i = 0;i < size; i++){
@@ -40,8 +40,9 @@ public class Board {
             System.out.println();
         }
     }
-    public static void main(String[] args){
+    public static void display(){
         Board board = new Board(15);
-        board.display();
+        board.design();
     }
+
 }
